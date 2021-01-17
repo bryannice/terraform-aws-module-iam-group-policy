@@ -11,4 +11,4 @@ Reuse pattern for creating a IAM group policy.
 
 ## License
 
-[Apache 2](LICENSE)
+[GPLv3](LICENSE)
